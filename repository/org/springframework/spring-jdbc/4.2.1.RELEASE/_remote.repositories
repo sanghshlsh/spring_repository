@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 30 10:30:50 KST 2020
+spring-jdbc-4.2.1.RELEASE-sources.jar>central=
+spring-jdbc-4.2.1.RELEASE.jar>central=
+spring-jdbc-4.2.1.RELEASE.pom>central=
